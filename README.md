@@ -6,6 +6,10 @@
 
 **backend**: java, firebase
 
-**thinking about**: human-centered computing & ux design
+**projects**:
 
-**for fun**: choreographing, penning my thoughts, soduku
+[orchids website clioner (ai scraper) ](https://github.com/marla-tumenjargal/orchids-ai-website-cloner)
+
+
+[cybersecurity stuff]([https://github.com/marla-tumenjargal/orchids-ai-website-cloner](https://github.com/marla-tumenjargal/cyberstart_america_moon_bases))
+
