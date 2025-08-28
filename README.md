@@ -1,10 +1,10 @@
 **hi hi i'm marla!**
 
-**studying**: computer science at UC Berkeley 
+**studying**: computer science at UC Berkeley 🐻
 
 **dev**: swift, react, next.js, html, css
 
-**backend**: java, google firebase, supabase
+**backend**: java, google firebase, supabase, mongodb
 
 **projects**:
 
