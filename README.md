@@ -1,4 +1,4 @@
-**hi hi i'm marla!**
+**hi hi i'm marla! ⭐️**
 
 **studying**: computer science at UC Berkeley 🐻
 
